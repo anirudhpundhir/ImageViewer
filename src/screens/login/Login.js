@@ -26,7 +26,7 @@ class Login extends Component {
                 username : 'admin',
                 password : 'admin'
             },
-            accessToken : '8661035776.d0fcd39.39f63ab2f88d4f9c92b0862729ee2784',
+            accessToken : 'YOUR_INSTAGRAM_ACCESS_TOKEN',
         };
     }
 
